@@ -1,5 +1,5 @@
 # Low-latency-control-robot-with-webtransport
-Merge webtransport RUST library into Dora-rs framework
+将 webtransport RUST 通信库集成到 Dora-rs 机器人中间件
 
 ## 项目描述
 Dora-rs 是基于 RUST所打造的开源机器人应用框架，其意义重大，旨在简化基于 AI 的机器人应用程序创建流程。它具备出色的性能表现，提供低延迟、可组合以及分布式的数据流功能，能将应用程序建模为有向图（也就是管道）的形式，利用零拷贝 Apache Arrow 消息实现快速的数据传输，且支持 Python、C、C++ 以及 ROS2 等多语言，方便开发者参与开发，还拥有热重载等实用功能，虽目前处于实验阶段，但已在机器人控制、自主导航、计算机视觉、人机交互等诸多领域展现出应用潜力，为机器人开发领域带来了高效且极具创新性的新选择.  目前通信层支持 TCP， zenoh, DDS 等通信框架。
