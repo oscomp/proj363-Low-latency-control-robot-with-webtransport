@@ -21,7 +21,7 @@ Dora-rs 是基于 RUST所打造的开源机器人应用框架，其意义重大�
 ## 项目导师
 
 - 丁心民
-- email ding@nnupylot.com
+- email bding@dora-rs.org
 
 ## 赛题分类
 具身智能应用（如机器人、无人车等）
